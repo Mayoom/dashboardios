@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-dashboardios-dashboardiosUITests/Pods-dashboardios-dashboardiosUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/LinearProgressView/LinearProgressView.framework
+${BUILT_PRODUCTS_DIR}/MBCircularProgressBar/MBCircularProgressBar.framework
+${BUILT_PRODUCTS_DIR}/SwiftCharts/SwiftCharts.framework

@@ -1,0 +1,30 @@
+PODS:
+  - Charts (3.4.0):
+    - Charts/Core (= 3.4.0)
+  - Charts/Core (3.4.0)
+  - LinearProgressView (2.0.1)
+  - MBCircularProgressBar (0.3.5)
+  - SwiftCharts (0.6.5)
+
+DEPENDENCIES:
+  - Charts
+  - LinearProgressView (~> 2.0)
+  - MBCircularProgressBar
+  - SwiftCharts (~> 0.6.5)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - LinearProgressView
+    - MBCircularProgressBar
+    - SwiftCharts
+
+SPEC CHECKSUMS:
+  Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  LinearProgressView: 353d4d45dc599b83cc4b43f14e6c0336aa6f3834
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  SwiftCharts: 2e755ea292f0b87d3e4b2c1eb5afc080a20cdc15
+
+PODFILE CHECKSUM: 7c5b4b44e3d9cc205b7db8d2b577d171704803e5
+
+COCOAPODS: 1.9.0.beta.2
