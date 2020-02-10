@@ -24,8 +24,8 @@
 		5C5EB21323EAAA440001E37B /* SevenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5EB21223EAAA440001E37B /* SevenViewController.swift */; };
 		5C5EB21523EAAA540001E37B /* EightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5EB21423EAAA540001E37B /* EightViewController.swift */; };
 		5C5EB21723EAB9E10001E37B /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5EB21623EAB9E10001E37B /* firstViewController.swift */; };
-		5C5EB21923EAC2D20001E37B /* CircularProgressBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5EB21823EAC2D20001E37B /* CircularProgressBarViewController.swift */; };
-		5C5EB21B23EAC2DB0001E37B /* LinerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C5EB21A23EAC2DB0001E37B /* LinerViewController.swift */; };
+		5C887A6223F176C400030672 /* LinerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C887A6123F176C400030672 /* LinerViewController.swift */; };
+		5C887A6423F176DD00030672 /* CircularProgressBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C887A6323F176DD00030672 /* CircularProgressBarViewController.swift */; };
 		8A340429969EB5326A345166 /* Pods_dashboardiosTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E190E1C71104E46C79F5ECDC /* Pods_dashboardiosTests.framework */; };
 		90EDF59BC44BE100C0F06168 /* Pods_dashboardios.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E62DC8FAA6077793CC372F02 /* Pods_dashboardios.framework */; };
 /* End PBXBuildFile section */
@@ -73,8 +73,8 @@
 		5C5EB21223EAAA440001E37B /* SevenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SevenViewController.swift; sourceTree = "<group>"; };
 		5C5EB21423EAAA540001E37B /* EightViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EightViewController.swift; sourceTree = "<group>"; };
 		5C5EB21623EAB9E10001E37B /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
-		5C5EB21823EAC2D20001E37B /* CircularProgressBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CircularProgressBarViewController.swift; path = "../../../Downloads/Project_Maryamb§ 3/Project_Maryamb§/CircularProgressBarViewController.swift"; sourceTree = "<group>"; };
-		5C5EB21A23EAC2DB0001E37B /* LinerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LinerViewController.swift; path = "../../../Downloads/Project_Maryamb§ 3/Project_Maryamb§/LinerViewController.swift"; sourceTree = "<group>"; };
+		5C887A6123F176C400030672 /* LinerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LinerViewController.swift; path = "../../../Downloads/Project_Maryamb§ 5 copy/Project_Maryamb§/LinerViewController.swift"; sourceTree = "<group>"; };
+		5C887A6323F176DD00030672 /* CircularProgressBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CircularProgressBarViewController.swift; path = "../../../Downloads/Project_Maryamb§ 5 copy/Project_Maryamb§/CircularProgressBarViewController.swift"; sourceTree = "<group>"; };
 		704B19C90F4B93986F34BBC2 /* Pods-dashboardios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dashboardios.debug.xcconfig"; path = "Target Support Files/Pods-dashboardios/Pods-dashboardios.debug.xcconfig"; sourceTree = "<group>"; };
 		895CF93DEAA87BB641806B79 /* Pods-dashboardiosTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dashboardiosTests.release.xcconfig"; path = "Target Support Files/Pods-dashboardiosTests/Pods-dashboardiosTests.release.xcconfig"; sourceTree = "<group>"; };
 		A36362066C8432E609718359 /* Pods-dashboardiosTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-dashboardiosTests.debug.xcconfig"; path = "Target Support Files/Pods-dashboardiosTests/Pods-dashboardiosTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -141,16 +141,16 @@
 				5C2A4DE123EA84FF006D88C6 /* ViewController.swift */,
 				5C5EB20823EAA2D60001E37B /* SeconedViewController.swift */,
 				5C2A4DE323EA84FF006D88C6 /* Main.storyboard */,
+				5C887A6123F176C400030672 /* LinerViewController.swift */,
 				5C2A4DE623EA8500006D88C6 /* Assets.xcassets */,
 				5C2A4DE823EA8500006D88C6 /* LaunchScreen.storyboard */,
 				5C2A4DEB23EA8500006D88C6 /* Info.plist */,
 				5C5EB20A23EAA9A90001E37B /* ThirdViewController.swift */,
+				5C887A6323F176DD00030672 /* CircularProgressBarViewController.swift */,
 				5C5EB20C23EAA9BC0001E37B /* FourthViewController.swift */,
 				5C5EB20E23EAA9C90001E37B /* FifthViewController.swift */,
 				5C5EB21023EAAA0F0001E37B /* SixViewController.swift */,
-				5C5EB21823EAC2D20001E37B /* CircularProgressBarViewController.swift */,
 				5C5EB21223EAAA440001E37B /* SevenViewController.swift */,
-				5C5EB21A23EAC2DB0001E37B /* LinerViewController.swift */,
 				5C5EB21423EAAA540001E37B /* EightViewController.swift */,
 				5C5EB21623EAB9E10001E37B /* firstViewController.swift */,
 			);
@@ -443,11 +443,11 @@
 				5C2A4DE223EA84FF006D88C6 /* ViewController.swift in Sources */,
 				5C2A4DDE23EA84FF006D88C6 /* AppDelegate.swift in Sources */,
 				5C5EB20B23EAA9A90001E37B /* ThirdViewController.swift in Sources */,
-				5C5EB21B23EAC2DB0001E37B /* LinerViewController.swift in Sources */,
 				5C5EB20923EAA2D60001E37B /* SeconedViewController.swift in Sources */,
+				5C887A6423F176DD00030672 /* CircularProgressBarViewController.swift in Sources */,
 				5C5EB21123EAAA0F0001E37B /* SixViewController.swift in Sources */,
-				5C5EB21923EAC2D20001E37B /* CircularProgressBarViewController.swift in Sources */,
 				5C2A4DE023EA84FF006D88C6 /* SceneDelegate.swift in Sources */,
+				5C887A6223F176C400030672 /* LinerViewController.swift in Sources */,
 				5C5EB21523EAAA540001E37B /* EightViewController.swift in Sources */,
 				5C5EB20F23EAA9C90001E37B /* FifthViewController.swift in Sources */,
 			);

@@ -13,7 +13,7 @@ class SixViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        // Do any additional setup after /Users/maryam/Downloads/Project_Maryamb§ 5 copy/Project_Maryamb§/CircularProgressBarViewController.swiftloading the view.
     }
     
 
